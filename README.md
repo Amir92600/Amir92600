@@ -18,8 +18,10 @@
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 - ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+- ![Google Colab](https://img.shields.io/badge/-Google_Colab-F9A825?style=flat&logo=googlecolab&logoColor=white)
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 - ![Perl](https://img.shields.io/badge/-Perl-330F22?style=flat&logo=perl&logoColor=white)
+- ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 
 ## Statistiques GitHub
